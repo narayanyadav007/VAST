@@ -14,7 +14,7 @@
 <Linear>
 <Duration>00:00:15</Duration>
 <TrackingEvents>
-<Tracking event="creativeView">
+<Tracking event="creativeView1">
 <![CDATA[ ]]>
 </Tracking>
 <Tracking event="start1">
@@ -26,10 +26,10 @@
 <Tracking event="midpoint1">
 <![CDATA[ ]]>
 </Tracking>
-<Tracking event="thirdQuartile">
+<Tracking event="thirdQuartile1">
 <![CDATA[ ]]>
 </Tracking>
-<Tracking event="complete">
+<Tracking event="complete1">
 <![CDATA[ ]]>
 </Tracking>
 </TrackingEvents>
@@ -42,10 +42,10 @@
 </ClickTracking>
 </VideoClicks>
 <MediaFiles>
-<MediaFile delivery="progressive" bitrate="160" width="0" height="0" type="audio/ogg">
+<MediaFile delivery="progressive" bitrate="160" width="0" height="0" type="audio/og3">
 <![CDATA[ http://sneezy.aws.rubiconproject.com/rp-eng-soln/rp-qa-sites/audioTest/ad1/Ruth_Education_15s.ogg ]]>
 </MediaFile>
-<MediaFile delivery="progressive" bitrate="160" width="0" height="0" type="audio/mpeg">
+<MediaFile delivery="progressive" bitrate="160" width="0" height="0" type="audio/mp4">
 <![CDATA[ http://sneezy.aws.rubiconproject.com/rp-eng-soln/rp-qa-sites/audioTest/ad1/Ruth_Education_15s.mp3 ]]>
 </MediaFile>
 </MediaFiles>
