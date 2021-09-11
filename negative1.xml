@@ -1,4 +1,4 @@
-<VAST version="6.0">
+<VAST version="2.0">
 <Ad id="TestAd">
 <InLine>
 <AdSystem>Rubicon Project</AdSystem>
@@ -34,11 +34,19 @@
 </Tracking>
 </TrackingEvents>
 <VideoClicks>
-
+<ClickThrough>
+<![CDATA[ http://www.unitedway.org/ ]]>
+</ClickThrough>
+<ClickTracking>
+<![CDATA[ ]]>
+</ClickTracking>
 </VideoClicks>
-
+<MediaFiles>
+<MediaFile delivery="progressive" bitrate="160" width="0" height="0" type="audio/ogg">
+<![CDATA[ http://sneezy.aws.rubiconproject.com/rp-eng-soln/rp-qa-sites/audioTest/ad1/Ruth_Education_15s.ogg ]]>
+</MediaFile>
 <MediaFile delivery="progressive" bitrate="160" width="0" height="0" type="audio/mpeg">
-
+<![CDATA[ http://sneezy.aws.rubiconproject.com/rp-eng-soln/rp-qa-sites/audioTest/ad1/Ruth_Education_15s.mp3 ]]>
 </MediaFile>
 </MediaFiles>
 </Linear>
@@ -47,7 +55,7 @@
 <CompanionAds>
 <Companion width="300" height="250">
 <StaticResource creativeType="image/jpeg">
-
+<![CDATA[ https://sneezy.aws.rubiconproject.com/rp-eng-soln/rp-qa-sites/audioTest/ad1/adc_liveunited_ruth_300x250.jpg ]]>
 </StaticResource>
 <TrackingEvents>
 <Tracking event="creativeView">
@@ -55,12 +63,12 @@
 </Tracking>
 </TrackingEvents>
 <CompanionClickThrough>
-
+<![CDATA[ http://www.unitedway.org/ ]]>
 </CompanionClickThrough>
 </Companion>
 <Companion width="640" height="640">
 <StaticResource creativeType="image/jpeg">
-
+<![CDATA[ https://sneezy.aws.rubiconproject.com/rp-eng-soln/rp-qa-sites/audioTest/ad1/adc_liveunited_ruth_640x640.jpg ]]>
 </StaticResource>
 <TrackingEvents>
 <Tracking event="creativeView">
@@ -68,7 +76,7 @@
 </Tracking>
 </TrackingEvents>
 <CompanionClickThrough>
-
+<![CDATA[ http://www.unitedway.org/ ]]>
 </CompanionClickThrough>
 </Companion>
 </CompanionAds>
