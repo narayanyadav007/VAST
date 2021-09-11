@@ -14,22 +14,22 @@
 <Linear>
 <Duration>00:00:15</Duration>
 <TrackingEvents>
-<Tracking event="creativeView1">
+<Tracking event="creativeView">
 <![CDATA[ ]]>
 </Tracking>
-<Tracking event="start1">
+<Tracking event="start">
 <![CDATA[ ]]>
 </Tracking>
-<Tracking event="firstQuartile1">
+<Tracking event="firstQuartile">
 <![CDATA[ ]]>
 </Tracking>
-<Tracking event="midpoint1">
+<Tracking event="midpoint">
 <![CDATA[ ]]>
 </Tracking>
-<Tracking event="thirdQuartile1">
+<Tracking event="thirdQuartile">
 <![CDATA[ ]]>
 </Tracking>
-<Tracking event="complete1">
+<Tracking event="complete">
 <![CDATA[ ]]>
 </Tracking>
 </TrackingEvents>
@@ -42,10 +42,10 @@
 </ClickTracking>
 </VideoClicks>
 <MediaFiles>
-<MediaFile delivery="progressive" bitrate="160" width="0" height="0" type="audio/og3">
+<MediaFile delivery="progressive" bitrate="160" width="0" height="0" type="audio/ogg">
 <![CDATA[ http://sneezy.aws.rubiconproject.com/rp-eng-soln/rp-qa-sites/audioTest/ad1/Ruth_Education_15s.ogg ]]>
 </MediaFile>
-<MediaFile delivery="progressive" bitrate="160" width="0" height="0" type="audio/mp4">
+<MediaFile delivery="progressive" bitrate="160" width="0" height="0" type="audio/mpeg">
 <![CDATA[ http://sneezy.aws.rubiconproject.com/rp-eng-soln/rp-qa-sites/audioTest/ad1/Ruth_Education_15s.mp3 ]]>
 </MediaFile>
 </MediaFiles>
