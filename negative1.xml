@@ -10,7 +10,7 @@
 <![CDATA[ ]]>
 </Impression>
 <Creatives>
-<Creative id="2014" AdID="20150911" sequence="1">
+<Creative id="2014" sequence="1">
 <Linear>
 <Duration>00:00:15</Duration>
 <TrackingEvents>
@@ -34,17 +34,9 @@
 </Tracking>
 </TrackingEvents>
 <VideoClicks>
-<ClickThrough>
-<![CDATA[ http://www.unitedway.org/ ]]>
-</ClickThrough>
-<ClickTracking>
-<![CDATA[ ]]>
-</ClickTracking>
-</VideoClicks>
-<MediaFiles>
-<MediaFile delivery="progressive" bitrate="160" width="0" height="0" type="audio/ogg">
 
-</MediaFile>
+</VideoClicks>
+
 <MediaFile delivery="progressive" bitrate="160" width="0" height="0" type="audio/mpeg">
 
 </MediaFile>
