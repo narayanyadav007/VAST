@@ -10,20 +10,20 @@
 <![CDATA[ ]]>
 </Impression>
 <Creatives>
-<Creative id="2014" sequence="1">
+<Creative id="2014" AdID="20150911" sequence="1">
 <Linear>
 <Duration>00:00:15</Duration>
 <TrackingEvents>
 <Tracking event="creativeView">
 <![CDATA[ ]]>
 </Tracking>
-<Tracking event="start">
+<Tracking event="start1">
 <![CDATA[ ]]>
 </Tracking>
-<Tracking event="firstQuartile">
+<Tracking event="firstQuartile1">
 <![CDATA[ ]]>
 </Tracking>
-<Tracking event="midpoint">
+<Tracking event="midpoint1">
 <![CDATA[ ]]>
 </Tracking>
 <Tracking event="thirdQuartile">
